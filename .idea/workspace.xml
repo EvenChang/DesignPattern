@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5c36458-a358-4046-872a-985685dd11c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/DesignPattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/evenTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CommandPattern/CommandPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CommandPattern/CommandPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EvenTest/EnumDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EvenTest/GenericDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/evenTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lgFJlc3lQX6UEieXYrNmpfLAnN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.13106161" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method />
+    </configuration>
+    <configuration name="InterpreterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterpreterPattern.InterpreterPatternDemo" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterpreterPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="EvenTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.InterpreterPatternDemo" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5c36458-a358-4046-872a-985685dd11c8" name="Default Changelist" comment="" />
+      <created>1608010757284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608010757284</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1608011293424">
+      <screen x="1280" y="-231" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.-231.1920.1080@1280.-231.1920.1080" timestamp="1608011293424" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1608011293421">
+      <screen x="1280" y="-231" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.0.1280.800/1280.-231.1920.1080@1280.-231.1920.1080" timestamp="1608011293421" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1608011293420">
+      <screen x="1280" y="-231" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.0.1280.800/1280.-231.1920.1080@1280.-231.1920.1080" timestamp="1608011293420" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1608011293422">
+      <screen x="1280" y="-231" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.0.1280.800/1280.-231.1920.1080@1280.-231.1920.1080" timestamp="1608011293422" />
+    <state x="1890" y="10" key="NewModule_or_Project.wizard" timestamp="1608011209768">
+      <screen x="1280" y="-231" width="1920" height="1080" />
+    </state>
+    <state x="1890" y="10" key="NewModule_or_Project.wizard/0.0.1280.800/1280.-231.1920.1080@1280.-231.1920.1080" timestamp="1608011209768" />
+    <state x="1728" y="-110" key="SettingsEditor" timestamp="1608011078778">
+      <screen x="1280" y="-231" width="1920" height="1080" />
+    </state>
+    <state x="1728" y="-110" key="SettingsEditor/0.0.1280.800/1280.-231.1920.1080@1280.-231.1920.1080" timestamp="1608011078778" />
+  </component>
+</project>

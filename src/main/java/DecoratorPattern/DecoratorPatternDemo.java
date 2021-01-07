@@ -1,6 +1,7 @@
 package DecoratorPattern;
 
 public class DecoratorPatternDemo {
+
     public static void main(String[] args) {
         Shape circle = new Circle();
 
